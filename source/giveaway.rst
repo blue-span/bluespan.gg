@@ -119,3 +119,4 @@ Notes
 .. [2] Your actual performance may vary
 .. [3] https://www.youtube.com/watch?v=_36yNWw_07g
 .. [4] the A300 chipset does not support GPU or CPU overclocking; memory OC only
+.. [5] You must love Blue Span 
