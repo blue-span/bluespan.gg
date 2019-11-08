@@ -16,6 +16,17 @@ Who is eligible?
 Basic eligibility is determined by stream viewership. If you are a regular
 stream viewer, you are `likely eligible`_.
 
+How to participate?
+-------------------
+
+For the **10 Nov** giveaway, enter your YouTube username [#youtube-username]_
+in: https://s.surveyplanet.com/Co5nbS7D , exactly as it appears on YouTube, with
+no additional text. Submitting your name multiple times will not increase your
+chances of winning.
+
+.. [#youtube-username] Your "username" is the text that shows up to the left of
+                       the text you type in YouTube's live chat feature.
+
 When are the winners being announced?
 -------------------------------------
 
