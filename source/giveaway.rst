@@ -25,7 +25,7 @@ no additional text. Submitting your name multiple times will not increase your
 chances of winning.
 
 .. [#youtube-username] Your "username" is the text that shows up to the left of
-                       the text you type in YouTube's live chat feature.
+                       the messages you type in YouTube's live chat feature.
 
 When are the winners being announced?
 -------------------------------------
@@ -130,4 +130,4 @@ Notes
 .. [2] Your actual performance may vary
 .. [3] https://www.youtube.com/watch?v=_36yNWw_07g
 .. [4] the A300 chipset does not support GPU or CPU overclocking; memory OC only
-.. [5] You must love Blue Span 
+.. [5] You must love Blue Span
