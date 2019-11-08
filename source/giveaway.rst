@@ -19,7 +19,7 @@ stream viewer, you are `likely eligible`_.
 How to participate?
 -------------------
 
-For the **10 Nov** giveaway, enter your YouTube username [#youtube-username]_
+For the **Nov 10** giveaway, enter your YouTube username [#youtube-username]_
 in: https://s.surveyplanet.com/Co5nbS7D , exactly as it appears on YouTube, with
 no additional text. Submitting your name multiple times will not increase your
 chances of winning.
