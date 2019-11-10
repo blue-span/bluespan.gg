@@ -10,6 +10,10 @@ What are we giving away?
 
 Small form factor (mini-ITX or mini-STX) mid-tier AMD gaming computers with Dota 2 preinstalled [1]_.
 
+Check out a `build timelapse`_.
+
+.. _`build timelapse`: timelapse/
+
 Who is eligible?
 ----------------
 
