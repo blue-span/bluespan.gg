@@ -23,6 +23,10 @@ stream viewer, you are `likely eligible`_.
 How to participate?
 -------------------
 
+.. note:: The giveaway link changes every two weeks. If you signed up for a
+   *previous* giveaway, you must sign up again with the new link to participate
+   in the *current* giveaway.
+
 For the **Nov 10** giveaway, enter your YouTube username [#youtube-username]_
 in: https://s.surveyplanet.com/Co5nbS7D , exactly as it appears on YouTube, with
 no additional text. Submitting your name multiple times will not increase your
@@ -36,7 +40,7 @@ When are the winners being announced?
 
 Winner announcement for this giveaway happens every other Sunday, on the following Sundays:
 
-- 10 Nov 2019
+- 10 Nov 2019 -- **CONGRATULATIONS** ``A K``; please contact Blue Span on discord
 - 24 Nov 2019
 - 8 Dec 2019
 - 22 Dec 2019
