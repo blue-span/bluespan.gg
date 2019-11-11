@@ -1,7 +1,7 @@
 bluespan.gg
 ===========
 
-.. image:: ../static/images/giveaway/logo.png
+.. image:: ../static/images/giveaway/logo-nov24.png
    :alt: AMD gaming computer giveaway
    :width: 100%
 
