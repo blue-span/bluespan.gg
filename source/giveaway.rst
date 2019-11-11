@@ -17,8 +17,8 @@ Check out a `build timelapse`_.
 Who is eligible?
 ----------------
 
-Basic eligibility is determined by stream viewership. If you are a regular
-stream viewer, you are `likely eligible`_.
+Basic eligibility is currently determined by stream viewership. If you are a
+regular stream viewer, you are `likely eligible`_.
 
 How to participate?
 -------------------
@@ -38,9 +38,64 @@ chances of winning.
 When are the winners being announced?
 -------------------------------------
 
-Winner announcement for this giveaway happens every other Sunday, on the following Sundays:
+Winner announcement for giveaways happens on-stream every other Sunday; see
+`Giveaway Schedule`_ for future giveaway winner announcement dates.
 
-- 10 Nov 2019 -- **CONGRATULATIONS** ``A K``; please contact Blue Span on discord
+.. note:: You have 7 calendar days after being announced as a winner to claim
+   your prize. Unclaimed prizes will be returned to the prize pool.
+
+I am a winner, how do I claim my prize?
+---------------------------------------
+
+Send a message to ``@bluespan.gg#8616`` on the `Blue Span Discord Server`_.
+
+.. note:: If you attempt to impersonate a giveaway winner, you will be
+   **permanently banned** from future giveaways, and possibly stream
+   chat/Discord as well.
+
+.. _`Blue Span Discord Server`: https://discord.gg/2nhPhsN
+
+Past Giveaways
+--------------
+
+.. |unclaimed| replace:: Unclaimed prizes will be returned to the prize pool after 7 calendar days; see `I am a winner, how do I claim my prize?`_.
+
+10 Nov 2019
+^^^^^^^^^^^
+
+**CONGRATULATIONS** to the following giveaway winners:
+
+.. role:: green
+.. role:: yellow
+.. role:: red
+
+.. list-table::
+   :header-rows: 1
+   :widths: 2 5 1
+
+   * - Winner
+     - Prize
+     - Status
+   * - ``A K``
+     - *AMD Ryzen 3400G mini-STX 1.92L custom gaming computer*
+     - :green:`claimed`
+   * - ``Devraj Chowdhary``
+     - *Warcraft III: Reforged*
+     - :green:`claimed`
+   * - ``roshan freeacc``
+     - *Warcraft III: Reforged*
+     - :yellow:`unclaimed`
+   * - ``AYJ``
+     - *Warcraft III: Reforged*
+     - :yellow:`unclaimed`
+
+.. note:: |unclaimed|
+
+Giveaway Schedule
+-----------------
+
+These giveaways are planned:
+
 - 24 Nov 2019
 - 8 Dec 2019
 - 22 Dec 2019
