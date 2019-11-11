@@ -41,8 +41,10 @@ regular stream viewer, you are `likely eligible`_.
 When are the winners being announced?
 -------------------------------------
 
-Winner announcement for giveaways happens on-stream every other Sunday; see
-`Giveaway Schedule`_ for future giveaway winner announcement dates.
+Winner announcement for giveaways happens live on-stream every other Sunday; see
+`What is the giveaway schedule?`_ for future giveaway winner announcement
+dates. `Who won the previous giveaway?`_ is also updated a few hours after the
+stream ends, so don't sweat missing the live announcement.
 
 .. note:: You have 7 calendar days after being announced as a winner to claim
    your prize. Unclaimed prizes will be returned to the prize pool.
@@ -58,8 +60,8 @@ Send a message to ``bluespan.gg#8616`` on the `Blue Span Discord Server`_.
 
 .. _`Blue Span Discord Server`: https://discord.gg/2nhPhsN
 
-Past Giveaways
---------------
+Who won the previous giveaway?
+------------------------------
 
 .. |unclaimed| replace:: Unclaimed prizes will be returned to the prize pool after 7 calendar days; see `I am a winner, how do I claim my prize?`_.
 
@@ -83,19 +85,19 @@ Past Giveaways
      - *AMD Ryzen 3400G mini-STX 1.92L custom gaming computer*
      - :green:`claimed`
    * - ``Devraj Chowdhary``
-     - *Warcraft III: Reforged*
+     - *Warcraft III: Reforged (Spoils of War Edition)*
      - :green:`claimed`
    * - ``roshan freeacc``
-     - *Warcraft III: Reforged*
+     - *Warcraft III: Reforged (Spoils of War Edition)*
      - :yellow:`unclaimed`
    * - ``AYJ``
-     - *Warcraft III: Reforged*
+     - *Warcraft III: Reforged (Spoils of War Edition)*
      - :yellow:`unclaimed`
 
 .. note:: |unclaimed|
 
-Giveaway Schedule
------------------
+What is the giveaway schedule?
+------------------------------
 
 These giveaways are planned:
 
