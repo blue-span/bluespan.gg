@@ -82,7 +82,7 @@ Who won the previous giveaway?
      - Prize
      - Status
    * - ``A K``
-     - *AMD Ryzen 3400G mini-STX 1.92L custom gaming computer*
+     - *AMD Ryzen 5 3400G mini-STX 1.92L custom gaming computer*
      - :green:`claimed`
    * - ``Devraj Chowdhary``
      - *Warcraft III: Reforged (Spoils of War Edition)*
