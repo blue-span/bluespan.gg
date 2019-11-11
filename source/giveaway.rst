@@ -14,12 +14,6 @@ Check out a `build timelapse`_.
 
 .. _`build timelapse`: timelapse/
 
-Who is eligible?
-----------------
-
-Basic eligibility is currently determined by stream viewership. If you are a
-regular stream viewer, you are `likely eligible`_.
-
 How to participate?
 -------------------
 
@@ -27,13 +21,22 @@ How to participate?
    *previous* giveaway, you must sign up again with the new link to participate
    in the *current* giveaway.
 
-For the **Nov 10** giveaway, enter your YouTube username [#youtube-username]_
-in: https://s.surveyplanet.com/Co5nbS7D , exactly as it appears on YouTube, with
-no additional text. Submitting your name multiple times will not increase your
-chances of winning.
+For the **Nov 24** giveaway, registration will open on **Nov 15**. Check this
+page after Nov 15 for registration link.
 
-.. [#youtube-username] Your "username" is the text that shows up to the left of
-                       the messages you type in YouTube's live chat feature.
+Who is eligible?
+----------------
+
+Basic eligibility is currently determined by stream viewership. If you are a
+regular stream viewer, you are `likely eligible`_.
+
+.. enter your YouTube username [#youtube-username]_
+   in: https://s.surveyplanet.com/FIXME , exactly as it appears on YouTube, with
+   no additional text. Submitting your name multiple times will not increase your
+   chances of winning.
+
+.. .. [#youtube-username] Your "username" is the text that shows up to the left of
+   the messages you type in YouTube's live chat feature.
 
 When are the winners being announced?
 -------------------------------------
