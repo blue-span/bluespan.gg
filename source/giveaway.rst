@@ -47,7 +47,7 @@ Winner announcement for giveaways happens on-stream every other Sunday; see
 I am a winner, how do I claim my prize?
 ---------------------------------------
 
-Send a message to ``@bluespan.gg#8616`` on the `Blue Span Discord Server`_.
+Send a message to ``bluespan.gg#8616`` on the `Blue Span Discord Server`_.
 
 .. note:: If you attempt to impersonate a giveaway winner, you will be
    **permanently banned** from future giveaways, and possibly stream
