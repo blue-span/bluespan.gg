@@ -22,7 +22,7 @@ How to participate?
    in the *current* giveaway.
 
 For the **Nov 24** giveaway, registration will open on **Nov 15**. Check this
-page after Nov 15 for registration link.
+page after Nov 15 for an updated registration link.
 
 Who is eligible?
 ----------------
