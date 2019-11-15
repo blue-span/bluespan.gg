@@ -461,6 +461,10 @@ table p {
     margin-top: 0.2em;
 }
 
+table {
+    margin: auto;
+}
+
 /**
  * literal
  */
@@ -494,6 +498,14 @@ span.yellow {
 span.green {
     background-color: #ecf0f3;
     color: #698f3f;
+    font-family: 'Consolas', 'Menlo', 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', monospace;
+    font-size: 0.9em;
+    padding: 0.1em 0.2em;
+}
+
+span.blue {
+    background-color: #ecf0f3;
+    color: #2e5266;
     font-family: 'Consolas', 'Menlo', 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', monospace;
     font-size: 0.9em;
     padding: 0.1em 0.2em;

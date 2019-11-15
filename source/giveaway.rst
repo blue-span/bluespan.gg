@@ -73,6 +73,7 @@ Who won the previous giveaway?
 .. role:: green
 .. role:: yellow
 .. role:: red
+.. role:: blue
 
 .. list-table::
    :header-rows: 1
@@ -83,13 +84,13 @@ Who won the previous giveaway?
      - Status
    * - ``A K``
      - *AMD Ryzen 5 3400G mini-STX 1.92L custom gaming computer*
-     - :green:`claimed`
+     - :blue:`claimed`
    * - ``Devraj Chowdhary``
      - *Warcraft III: Reforged (Spoils of War Edition)*
-     - :green:`claimed`
+     - :green:`delivered`
    * - ``roshan freeacc``
      - *Warcraft III: Reforged (Spoils of War Edition)*
-     - :yellow:`unclaimed`
+     - :blue:`claimed`
    * - ``AYJ``
      - *Warcraft III: Reforged (Spoils of War Edition)*
      - :yellow:`unclaimed`
