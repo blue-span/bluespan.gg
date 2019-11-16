@@ -22,7 +22,7 @@ How to participate?
    in the *current* giveaway.
 
 For the **Nov 24** giveaway, registration will open **prior to Blue Span's
-stream on Nov 16**. Check this page on Nov 16 for an updated registration
+stream on Nov 17**. Check this page on Nov 17 for an updated registration
 link.
 
 Who is eligible?
