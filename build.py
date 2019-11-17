@@ -25,6 +25,7 @@ def render_source(source_path, *, base_path, build_path):
         destination_path=destination_path,
         settings_overrides=dict(
             stylesheet_path='./static/css/bluespan-normalize.css',
+            template='./static/template/mobile.tmpl',
         )
     )
 

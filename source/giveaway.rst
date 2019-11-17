@@ -30,21 +30,13 @@ Who is eligible?
 Basic eligibility is currently determined by stream viewership. If you are a
 regular stream viewer, you are `likely eligible`_.
 
-.. enter your YouTube username [#youtube-username]_
-   in: https://s.surveyplanet.com/FIXME , exactly as it appears on YouTube, with
-   no additional text. Submitting your name multiple times will not increase your
-   chances of winning.
-
-.. .. [#youtube-username] Your "username" is the text that shows up to the left of
-   the messages you type in YouTube's live chat feature.
-
 When are the winners being announced?
 -------------------------------------
 
 Winner announcement for giveaways happens live on-stream every other Sunday; see
 `What is the giveaway schedule?`_ for future giveaway winner announcement
 dates. `Who won the previous giveaway?`_ is also updated a few hours after the
-stream ends, so don't sweat missing the live announcement.
+stream ends, so don't worry if you miss the live announcement.
 
 .. note:: You have 7 calendar days after being announced as a winner to claim
    your prize. Unclaimed prizes will be returned to the prize pool.
@@ -90,10 +82,7 @@ Who won the previous giveaway?
      - :green:`delivered`
    * - ``roshan freeacc``
      - *Warcraft III: Reforged (Spoils of War Edition)*
-     - :blue:`claimed`
-   * - ``AYJ``
-     - *Warcraft III: Reforged (Spoils of War Edition)*
-     - :yellow:`unclaimed`
+     - :green:`delivered`
 
 .. note:: |unclaimed|
 
