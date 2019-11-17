@@ -2,6 +2,10 @@
 bluespan.gg
 ===========
 
+.. image:: https://img.shields.io/circleci/build/github/blue-span/bluespan.gg?label=automated%20deployment&style=for-the-badge
+   :target: https://circleci.com/gh/blue-span/bluespan.gg
+   :alt: circleci
+
 How to edit
 -----------
 
