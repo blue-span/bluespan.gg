@@ -12,14 +12,14 @@ Small form factor (mini-ITX or mini-STX) mid-tier AMD gaming computers with Dota
 
 Check out a `build timelapse`_.
 
-.. _`build timelapse`: timelapse/
+.. _`build timelapse`: /giveaway/timelapse
 
 How to participate?
 -------------------
 
 Sign up for the ``Nov 24`` giveaway at `bluespan.gg/giveaway/register`_.
 
-.. _`bluespan.gg/giveaway/register`: register/
+.. _`bluespan.gg/giveaway/register`: /giveaway/register
 
 Who is eligible?
 ----------------
