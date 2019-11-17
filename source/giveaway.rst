@@ -17,9 +17,9 @@ Check out a `build timelapse`_.
 How to participate?
 -------------------
 
-Sign up for the ``Nov 24`` giveaway at `bluespan.gg/giveaway/register`_.
+Sign up for the ``Nov 24`` giveaway at `bluespan.gg/register`_.
 
-.. _`bluespan.gg/giveaway/register`: /giveaway/register
+.. _`bluespan.gg/register`: /register
 
 Who is eligible?
 ----------------
