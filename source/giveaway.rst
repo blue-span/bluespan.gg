@@ -19,6 +19,9 @@ How to participate?
 
 Sign up for the ``Nov 24`` giveaway at `bluespan.gg/register`_.
 
+.. note:: If you are on a mobile device and having trouble finding your YouTube
+   Channel ID, try: https://www.youtube.com/account_advanced
+
 .. _`bluespan.gg/register`: /register
 
 Who is eligible?
