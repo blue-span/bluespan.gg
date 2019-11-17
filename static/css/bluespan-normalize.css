@@ -465,6 +465,20 @@ table {
     margin: auto;
 }
 
+@media only screen and (max-width: 700px) {
+    table tr td:not(:first-child), table tr th:not(:first-child) {
+        display: none;
+    }
+
+    table colgroup col:first-child {
+        width: 100% !important;
+    }
+
+    table colgroup col:not(first-child) {
+        width: 0% !important;
+    }
+}
+
 /**
  * literal
  */
