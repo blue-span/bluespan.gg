@@ -552,3 +552,41 @@ h1.title {
     font-size: 2.5em;
     text-transform: uppercase;
 }
+
+.image-header {
+    display: flex;
+    align-items: center;
+}
+
+.image-header > img {
+    box-sizing: border-box;
+    max-height: 5em;
+    margin: auto;
+}
+
+.image-header > img:first-child {
+    margin-right: 0.5em;
+}
+
+.image-header > img:last-child {
+    margin-left: 0.5em;
+}
+
+@media only screen and (max-width: 700px) {
+    .image-header {
+        flex-direction: column;
+    }
+
+    .image-header > img {
+        max-width: 80vw;
+    }
+
+    .image-header > img:first-child {
+        margin: 0;
+        margin-bottom: 1em;
+    }
+
+    .image-header > img:last-child {
+        margin: 0;
+    }
+}
