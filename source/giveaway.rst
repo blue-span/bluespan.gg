@@ -17,13 +17,9 @@ Check out a `build timelapse`_.
 How to participate?
 -------------------
 
-.. note:: The giveaway link changes every two weeks. If you signed up for a
-   *previous* giveaway, you must sign up again with the new link to participate
-   in the *current* giveaway.
+Sign up for the ``Nov 24`` giveaway at `bluespan.gg/giveaway/register`_.
 
-For the **Nov 24** giveaway, registration will open **prior to Blue Span's
-stream on Nov 17**. Check this page on Nov 17 for an updated registration
-link.
+.. _`bluespan.gg/giveaway/register`: register/
 
 Who is eligible?
 ----------------
