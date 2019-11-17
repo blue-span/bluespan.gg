@@ -21,7 +21,7 @@ jobs:
             env/bin/python build.py
       - add_ssh_keys:
           fingerprints:
-            - "af:fe:e4:34:8a:1a:7d:e4:78:24:0e:fe:fa:ab:39:3b"
+            - "e6:4f:df:2e:5d:3a:d3:e3:61:a7:84:8f:c9:dd:66:dd"
       - run:
           name: deploy to bluespan.gg
           command: |
@@ -29,11 +29,12 @@ jobs:
             apt install -y rsync
 
             cat << EOF >> ~/.ssh/known_hosts
-            direct.bluespan.gg,2001:19f0:6401:56d:5400:2ff:fe66:c84a,149.28.246.77 ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBBMQcW5qmyq2ak4aRYHM5PuhhqEooaAJndaZ29XyQmHSeYP8wzrvel6i1ybyN8R/QxfeOcT3PvA2OIFTjYxuT10=
+            ed5rpzdi.lax.bluespan.gg,2001:19f0:6001:509f:5400:2ff:fe6b:19ff,45.77.68.171 ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBPTWYlTdGuLMakaC14VBZ6dYAVB/iGT6VPt8qvGrQGuLWIvAZyQO+nRBlkslmHQiAZFr7/V9P/q2C+0pKdYtHMs=
             EOF
 
             rsync \
-              --rsync-path=/usr/bin/openrsync \
               --delete -arv \
               ./build/ \
-              root@direct.bluespan.gg:/var/www/htdocs/bluespan.gg
+              deploy@ed5rpzdi.lax.bluespan.gg:/home/deploy/bluespan.gg
+
+            ssh deploy@ed5rpzdi.lax.bluespan.gg doas /sbin/rc-service giveaway restart
