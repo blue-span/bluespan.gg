@@ -62,15 +62,39 @@ Who won the previous giveaway?
 
 .. |unclaimed| replace:: Unclaimed prizes will be returned to the prize pool after 7 calendar days; see `I am a winner, how do I claim my prize?`_.
 
-10 Nov 2019
-^^^^^^^^^^^
-
-**CONGRATULATIONS** to the following giveaway winners:
-
 .. role:: green
 .. role:: yellow
 .. role:: red
 .. role:: blue
+
+24 Nov 2019
+^^^^^^^^^^^
+
+**CONGRATULATIONS** to the following giveaway winners:
+
+.. list-table::
+   :header-rows: 1
+   :widths: 2 5 1
+
+   * - Winner
+     - Prize
+     - Status
+   * -
+     - *AMD Ryzen 5 3400G mini-STX 1.92L custom gaming computer*
+     - :blue:`unannounced`
+   * -
+     - *SteelSeries gaming peripheral (winner's choice)*
+     - :blue:`unannounced`
+   * -
+     - *Warcraft III: Reforged (Spoils of War Edition)*
+     - :blue:`unannounced`
+
+.. note:: |unclaimed|
+
+10 Nov 2019
+^^^^^^^^^^^
+
+**CONGRATULATIONS** to the following giveaway winners:
 
 .. list-table::
    :header-rows: 1
@@ -88,8 +112,6 @@ Who won the previous giveaway?
    * - ``roshan freeacc``
      - *Warcraft III: Reforged (Spoils of War Edition)*
      - :green:`delivered`
-
-.. note:: |unclaimed|
 
 What is the giveaway schedule?
 ------------------------------
