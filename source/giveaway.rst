@@ -21,10 +21,10 @@ Check out a `build timelapse`_.
 How to participate?
 -------------------
 
-Sign up for the ``Nov 24`` giveaway at `bluespan.gg/register`_.
+Registrations are currently closed. Check this page on or after Dec 1st for
+details on how to register for the ``Dec 8`` giveaway.
 
-.. note:: You will need your YouTube Channel ID, which you can copy from
-   `youtube.com/account_advanced`_
+.. Sign up for the ``Nov 24`` giveaway at `bluespan.gg/register`_.
 
 .. _`youtube.com/account_advanced`: https://www.youtube.com/account_advanced
 .. _`bluespan.gg/register`: /register
@@ -34,6 +34,13 @@ Who is eligible?
 
 Basic eligibility is currently determined by stream viewership. If you are a
 regular stream viewer, you are `likely eligible`_.
+
+How are the winner(s) selected?
+-------------------------------
+
+Using the `bluespan.gg/giveaway stream chat blockchain™`_.
+
+.. _`bluespan.gg/giveaway stream chat blockchain™`: /blockchain
 
 When are the winners being announced?
 -------------------------------------
@@ -52,8 +59,7 @@ I am a winner, how do I claim my prize?
 Send a message to ``bluespan.gg#8616`` on the `Blue Span Discord Server`_.
 
 .. note:: If you attempt to impersonate a giveaway winner, you will be
-   **permanently banned** from future giveaways, and possibly stream
-   chat/Discord as well.
+   **permanently banned** from future giveaways, stream chat, and Discord.
 
 .. _`Blue Span Discord Server`: https://discord.gg/2nhPhsN
 
@@ -79,12 +85,12 @@ Who won the previous giveaway?
    * - Winner
      - Prize
      - Status
-   * -
+   * - ``Payback``
      - *AMD Ryzen 5 3400G mini-STX 1.92L custom gaming computer*
-     - :blue:`unannounced`
-   * -
+     - :yellow:`unclaimed`
+   * - ``gygy``
      - *SteelSeries gaming peripheral (winner's choice)*
-     - :blue:`unannounced`
+     - :yellow:`unclaimed`
    * -
      - *Warcraft III: Reforged (Spoils of War Edition)*
      - :blue:`unannounced`
@@ -118,7 +124,6 @@ What is the giveaway schedule?
 
 These giveaways are planned:
 
-- 24 Nov 2019
 - 8 Dec 2019
 - 22 Dec 2019
 
