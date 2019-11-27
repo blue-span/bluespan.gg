@@ -21,10 +21,7 @@ Check out a `build timelapse`_.
 How to participate?
 -------------------
 
-Registrations are currently closed. Check this page on or after Dec 1st for
-details on how to register for the ``Dec 8`` giveaway.
-
-.. Sign up for the ``Nov 24`` giveaway at `bluespan.gg/register`_.
+Sign up for the ``Dec 8`` giveaway at `bluespan.gg/register`_.
 
 .. _`youtube.com/account_advanced`: https://www.youtube.com/account_advanced
 .. _`bluespan.gg/register`: /register
