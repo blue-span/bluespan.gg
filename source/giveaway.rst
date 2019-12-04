@@ -135,10 +135,7 @@ Who won the previous giveaway?
 What is the giveaway schedule?
 ------------------------------
 
-These giveaways are planned:
-
-- 8 Dec 2019
-- 22 Dec 2019
+No future giveaway dates have been announced.
 
 Why do you want one of these?
 -----------------------------
