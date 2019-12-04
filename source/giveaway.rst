@@ -70,6 +70,27 @@ Who won the previous giveaway?
 .. role:: red
 .. role:: blue
 
+8 Dec 2019
+^^^^^^^^^^
+
+**CONGRATULATIONS** to the following giveaway winners:
+
+.. list-table::
+   :header-rows: 1
+   :widths: 2 5 1
+
+   * - Winner
+     - Prize
+     - Status
+   * -
+     - *AMD Ryzen 5 3400G mini-STX 1.92L custom gaming computer*
+     - :blue:`unannounced`
+   * -
+     - *Breville BTM800XL One-Touch Tea Maker*
+     - :blue:`unannounced`
+
+.. note:: |unclaimed|
+
 24 Nov 2019
 ^^^^^^^^^^^
 
@@ -88,8 +109,6 @@ Who won the previous giveaway?
    * - ``gygy``
      - *SteelSeries gaming peripheral (winner's choice)*
      - :blue:`claimed`
-
-.. note:: |unclaimed|
 
 10 Nov 2019
 ^^^^^^^^^^^
