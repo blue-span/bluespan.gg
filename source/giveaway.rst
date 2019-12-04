@@ -84,13 +84,10 @@ Who won the previous giveaway?
      - Status
    * - ``Payback``
      - *AMD Ryzen 5 3400G mini-STX 1.92L custom gaming computer*
-     - :yellow:`unclaimed`
+     - :green:`shipped`
    * - ``gygy``
      - *SteelSeries gaming peripheral (winner's choice)*
-     - :yellow:`unclaimed`
-   * -
-     - *Warcraft III: Reforged (Spoils of War Edition)*
-     - :blue:`unannounced`
+     - :blue:`claimed`
 
 .. note:: |unclaimed|
 
