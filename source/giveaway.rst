@@ -108,7 +108,7 @@ Who won the previous giveaway?
      - :green:`shipped`
    * - ``gygy``
      - *SteelSeries gaming peripheral (winner's choice)*
-     - :blue:`claimed`
+     - :green:`shipped`
 
 10 Nov 2019
 ^^^^^^^^^^^
