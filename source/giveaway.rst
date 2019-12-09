@@ -82,12 +82,12 @@ Who won the previous giveaway?
    * - Winner
      - Prize
      - Status
-   * -
+   * - ``fenrir silverfang``
      - *AMD Ryzen 5 3400G mini-STX 1.92L custom gaming computer*
-     - :blue:`unannounced`
-   * -
+     - :yellow:`unclaimed`
+   * - ``hendrygunardi``
      - *Breville BTM800XL One-Touch Tea Maker*
-     - :blue:`unannounced`
+     - :yellow:`unclaimed`
 
 .. note:: |unclaimed|
 
